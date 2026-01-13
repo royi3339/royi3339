@@ -124,16 +124,21 @@ can be vrified by the dates (before the first chat-gpt ai)
 
 
 <details>
-<summary>🌐 <b>Project Name 2</b></summary>
+<summary> 🕹️ <b>guns game - aid</b></summary>
 
-## [Project Name 2](https://github.com/royiAli/repo-name-2)
-Another description explaining the purpose and technologies used.
+> ## [guns game - aid](https://github.com/royi3339/gameAidProject)
 >> ```
->> 🛠 Tech: Python Flask
->> 📊 Status:  Completed
->> ⭐ Features:  API, Authentication, Database
+>> A tool that create a static red dot in the center of the screen.
+>> it helps a lot to use sniper rifles and use them without entering the scope of the rifle!
+>> the script works only on windows
+>> the great news: you wont get banned if you use this script!
+>> work perfect on: cs 2 (cs go), gta v, etc
 >> ```
-**Tech:** React, Node.js
+>>
+>> `gaming`, `Python`
+>> <br>
+>> (more information - in the repo)
+<br>
 </details>
 
 <br>
