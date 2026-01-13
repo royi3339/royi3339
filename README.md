@@ -1,5 +1,13 @@
 # 📂 My Projects
 
+These projects are mine! with self implementation
+<br>
+no ai ever touched in these code/repos
+<br>
+can be vrified by the dates (before the first chat-gpt ai)
+<br><br>
+
+
 <details>
 <summary> 🗡️ <b>Website spy mitm pro</b></summary>
 
@@ -25,11 +33,11 @@
 >> ```
 >> A tool that takes 2 files and create from the an angecryption file or a polyglot file
 >> can be encrypted (by default) or not
->> ecryption - aes cbc 256
+>> ecryption - Aes CBC 256
 >> works only on windows os.
 >> ```
 >>
->> `cyber`, `Python`, `aes`, `angecryption-file`, `polyglot-file`
+>> `cyber`, `Python`, `Aes`, `angecryption-file`, `polyglot-file`
 >> <br>
 >> (more information - in the repo)
 >> <br>
@@ -50,7 +58,7 @@
 >> (more information - in the repo)
 >> ```
 >>
->> `cyber`, `assembly`, `c/c++`, `aes`, `packer`
+>> `cyber`, `assembly`, `c/c++`, `Aes`, `packer`
 >> <br>
 >> (more information - in the repo)
 <br>
@@ -59,13 +67,33 @@
 
 
 <details>
-<summary> 🗡️ <b>Arp - Spoofer & Defender</b></summary>
+<summary> 👾 <b>Secret Reverse Shell (RAT)</b></summary>
+
+> ## [Secret Reverse Shell (RAT)](https://github.com/royi3339/Secret-Reverse-Shell)
+>> ```
+>> A tool that allows to take control on the victim without any piepline/socket
+>> the attack works with 2 assumptions:
+>>    1. The attacker and the victim are in the network.
+>>    2. The victim somehow - runs our py script.
+>> the communication encrypted with Aes CBC 256  
+>> ```
+>>
+>> `cyber`, `RAT`, `Python`, `scapy`, `network`, `Aes`
+>> <br>
+>> (more information - in the repo)
+<br>
+</details>
+
+
+
+<details>
+<summary> 🧪|🛡️ <b>Arp - Spoofer & Defender</b></summary>
 
 > ## [ArpSpoofer](https://github.com/royi3339/ArpSpoofer) | [arpDefender](https://github.com/royi3339/arpDefender)
 >> ```
 >> This project contains 2 tools:
->> 1. A tool that perform an Arp spoofing attack (in the first repo)
->> 2. A tool that defend from arp spoofing attack in real time (in the second repo).
+>>    1. A tool that perform an Arp spoofing attack (in the first repo)
+>>    2. A tool that defend from arp spoofing attack in real time (in the second repo).
 >> ```
 >>
 >> `cyber`, `Python`, `scapy`, `network`
