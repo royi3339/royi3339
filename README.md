@@ -63,8 +63,9 @@
 
 > ## [ArpSpoofer](https://github.com/royi3339/ArpSpoofer) | [arpDefender](https://github.com/royi3339/arpDefender)
 >> ```
->> A tool that perform an Arp spoofing attack (in the first repo)
->> and a tool that defend from arp spoofing attack in real time (in the second repo).
+>> This project contains 2 tools:
+>> 1. A tool that perform an Arp spoofing attack (in the first repo)
+>> 2. A tool that defend from arp spoofing attack in real time (in the second repo).
 >> ```
 >>
 >> `cyber`, `Python`, `scapy`, `network`
