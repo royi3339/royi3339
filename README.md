@@ -1,16 +1,20 @@
-## Hi there 👋
+## 📂 My Projects
 
-<!--
-**royi3339/royi3339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![testHere](https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=testHere&theme=radical)](https://github.com/royi3339/testHere)
 
-Here are some ideas to get you started:
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=gameAidProject&theme=radical)](https://github.com/royi3339/gameAidProject)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=testHere&theme=radical)](https://github.com/royi3339/testHere)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=testHere)](https://github.com/royi3339/testHere)
+
+![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royi3339&show_icons=true&theme=dark&include_all_commits=true)
+
+<!-- No theme (default light) -->
+https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=testHere
+
+<!-- Dark theme -->
+https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=testHere&theme=dark
+
+
+
