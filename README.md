@@ -1,6 +1,6 @@
 ## 📂 My Projects
 
-![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royi3339&show_icons=true&theme=dark&include_all_commits=true)
+![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royi3339&show_icons=true&theme=dark)
 
 [![testHere](https://github-readme-stats.vercel.app/api/pin/?username=royi3339&repo=testHere&theme=radical)](https://github.com/royi3339/testHere)
 
